@@ -9,3 +9,9 @@
 6      guardamos el fichero bitácora
 7.     Commit 'paso7'
 8.     Cambio de rama a 'Lola'
+10.    Guardamos el fichero bitácora
+11.    Comió 'paso11'
+20.    Guardamos fichero bitácora
+21.    Realizamos commit 'paso 21'
+22.    Nos movemos a la rama 'Lola'
+23.    Vemos el stash y lo restauramos
