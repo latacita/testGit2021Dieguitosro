@@ -1,8 +1,14 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):San Román Ortiz, Diego                %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+1.     Clonamos Repositorio desde 
+       GitHub con la opción de GitHub
+       desktop
+2.     New branch 'Paco'
+3.     New branch 'Lola'
+4.     Nos movemos a la rama Paco
