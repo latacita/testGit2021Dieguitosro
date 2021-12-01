@@ -6,3 +6,6 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+6      guardamos el fichero bitácora
+7.     Commit 'paso7'
+8.     Cambio de rama a 'Lola'
