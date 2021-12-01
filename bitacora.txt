@@ -12,6 +12,11 @@
 2.     New branch 'Paco'
 3.     New branch 'Lola'
 4.     Nos movemos a la rama Paco
+6      guardamos el fichero bitácora
+7.     Commit 'paso7'
+8.     Cambio de rama a 'Lola'
+10.    Guardamos el fichero bitácora
+11.    Comió 'paso11'
 13.     Cambio de rama a 'Master'
 14.     Visualización de merge con   Se comprueba que no existe ningún
 	'Lola'			   problema en fusionar con 'lola'
@@ -19,4 +24,8 @@
 17     Comit 'Paso 17'
 18     se realiza un merge de Paco  Existen conflictos a la hora de fusionar ramas 
 	master			 	que son resueltos a mano
+20.    Guardamos fichero bitácora
+21.    Realizamos commit 'paso 21'
+22.    Nos movemos a la rama 'Lola'
+23.    Vemos el stash y lo restauramos
 
