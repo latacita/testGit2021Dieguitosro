@@ -15,5 +15,8 @@
 13.     Cambio de rama a 'Master'
 14.     Visualización de merge con   Se comprueba que no existe ningún
 	'Lola'			   problema en fusionar con 'lola'
-	
+16.    Guardamos el fichero
+17     Comit 'Paso 17'
+18     se realiza un merge de Paco  Existen conflictos a la hora de fusionar ramas 
+	master			 	que son resueltos a mano
 
