@@ -6,3 +6,7 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+13.     Cambio de rama a 'Master'
+14.     Visualización de merge con   Se comprueba que no existe ningún
+	'Lola'			   problema en fusionar con 'lola'
+	
