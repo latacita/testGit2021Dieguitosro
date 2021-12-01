@@ -28,4 +28,9 @@
 21.    Realizamos commit 'paso 21'
 22.    Nos movemos a la rama 'Lola'
 23.    Vemos el stash y lo restauramos
+25.    Guardamos el fichero
+26.    Commit 'Paso 26'
+27.    Nos movemos de rama a Master
+28.    Hacemos merge en master con la   Existen conflictos que son resueltos a mano 
+	rama 'Lola'
 
